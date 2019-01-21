@@ -8,7 +8,7 @@ The competition is to create a program method that is run in cells on a grid as 
 
 Your program is run simultaneously with enemy programs that may exist in other cells.
 
-Your cells are given as input, an array containg the state of your immediate neighbors, and your method returns on array which specifies wich cells you can shoot up to 3 bullets into.  Empty cells and enemy cells can be conquired by your program.
+Your cells are given input, an array containg the state of your immediate neighbors, and your method returns on array which specifies wich cells you can shoot up to 3 bullets into.  Empty cells and enemy cells can be conquired by your program.
 
 The goal is to have your program take up more cells than ther other executing programs when the test runner has finished executing.
 
