@@ -164,8 +164,8 @@
         <p style="font-family: monospace;">
             { int[] input -><br/><br/>
             &nbsp;&nbsp;&nbsp;&nbsp;input[0] //upperLeft<br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;input[4] //left<br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;input[8] //lowerRight<br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;input[1] //upper<br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;input[2] //upperRight<br/>
             &nbsp;&nbsp;&nbsp;&nbsp;//etc.<br/><br/>
             &nbsp;&nbsp;&nbsp;&nbsp;return [0,3,0,0,0,0,0,0] //shoot 'em up!<br/>
             }
